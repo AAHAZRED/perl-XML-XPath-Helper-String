@@ -1,5 +1,8 @@
 Revision history for XML-XPath-Helper-String
 
+1.05    2023/05/05
+        POD: minor fix
+
 1.04    2023/05/03
         Added LICENSE file
         POD, README: Removed link to cpanratings.perl.org

@@ -6,7 +6,7 @@ use warnings;
 
 use Exporter 'import';
 
-our $VERSION = '1.04';
+our $VERSION = '1.05';
 
 our @EXPORT_OK = qw(quoted_string one_of_quoted not_one_of_quoted);
 
@@ -91,7 +91,7 @@ XML::XPath::Helper::String - Helper functions for XPath expression.
 
 =head1 VERSION
 
-Version 1.04
+Version 1.05
 
 =head1 SYNOPSIS
 
